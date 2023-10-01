@@ -18,7 +18,7 @@
 
 - 💬 Ask me about Scrapy.py && Salesforce && AWS
 
-- 📫 How to reach me **rushi2001bobade@gmail.com@gmail.com**
+- 📫 How to reach me **rushi2001bobade@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ldBDBN8ia3L9PdTwKr2cPhgSfmQ2MsxU/view?usp=sharing" target="blank">Resume</a>
 <br/>
