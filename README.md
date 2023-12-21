@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rushi2001bobade@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ldBDBN8ia3L9PdTwKr2cPhgSfmQ2MsxU/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tNym1Pf220u5cm51aCC-Qtk_XTxyJRT5/view?usp=sharing">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
